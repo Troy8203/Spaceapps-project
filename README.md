@@ -2,6 +2,18 @@
 
 Este es un sitio web creado para explorar y mostrar planetas hipotéticos que podrían existir bajo diferentes condiciones ecológicas, atmosféricas y climáticas. El proyecto permite a los usuarios visualizar cómo diversos factores, como la composición de gases, la temperatura y otros cambios ambientales, pueden influir en la formación y evolución de planetas.
 
+## Tecnologías Usadas
+
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+  Utilizado para construir la interfaz de usuario con componentes reutilizables y reactivos.
+
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+  Framework de CSS para diseñar interfaces modernas y responsivas con clases utilitarias.
+
+- ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A67D8?style=for-the-badge&logo=daisyui&logoColor=white)  
+  Complemento de Tailwind CSS para componentes UI pre-diseñados y accesibles.
+
+
 ## Características Principales
 
 - **Generación de Planetas:** El sitio web permite la creación de planetas con características personalizables, incluyendo niveles de gases en la atmósfera, composición del suelo, temperatura media y otros factores climáticos.
